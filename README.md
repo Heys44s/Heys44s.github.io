@@ -1,2 +1,2 @@
 # Düzenlenecektir. 
-# Heys44s.github.io
+Heys44s.github.io
